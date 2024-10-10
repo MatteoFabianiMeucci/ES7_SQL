@@ -75,10 +75,10 @@ INSERT INTO partecipazione VALUES(201, 'Beta');
 INSERT INTO partecipazione VALUES(202, 'Beta');
 
 -- Inserimento di nuovi impiegati
-INSERT INTO impiegato VALUES(104, 'Bianchi', 65, 'NO');
-INSERT INTO impiegato VALUES(105, 'Gialli', 55, 'SU');
-INSERT INTO impiegato VALUES(106, 'Rossi', 45, 'IS');
-INSERT INTO impiegato VALUES(107, 'Verdi', 70, 'SU');
+INSERT INTO impiegato VALUES(104, 'Bianchi', 65000, 'NO');
+INSERT INTO impiegato VALUES(105, 'Gialli', 55000, 'SU');
+INSERT INTO impiegato VALUES(106, 'Rossi', 45000, 'IS');
+INSERT INTO impiegato VALUES(107, 'Verdi', 70000, 'SU');
 
 -- Inserimento di nuovi progetti
 INSERT INTO progetto VALUES('Delta', 'Marketing', 120, 202);
